@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FragmentAddExample</string>
+    <string name="Add">Add Fragment</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text">Enter Text Here</string>
+    <string name="fragment">This is a fragment</string>
+    <string name="Remove">Remove Fragment</string>
+</resources>

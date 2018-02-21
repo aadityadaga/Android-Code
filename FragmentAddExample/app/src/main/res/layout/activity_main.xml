@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.aditya.fragmentaddexample.MainActivity"
+    android:orientation="vertical">
+
+   <Button
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/Add"
+       android:id="@+id/AddButton"
+       android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Remove"
+        android:id="@+id/RemoveButton"
+        android:textStyle="bold"/>
+
+    <FrameLayout
+        android:id="@+id/Framelayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>
