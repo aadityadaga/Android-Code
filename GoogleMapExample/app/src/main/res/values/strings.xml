@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMapExample</string>
+    <string name="title_activity_maps">Map Example</string>
+    <string name="unable_ftech">unable to fetch location</string>
+    <string name="directionsApiKey">AIzaSyCcjhB7XUeecZtgOlvu2gZZHoEaOc9hayQ</string>
+    <string name="message">Enable either GPS or any other location service to find current location.  Click OK to go to location services settings to let you do so</string>
+</resources>
